@@ -5,9 +5,9 @@
 * [Keras Models](https://github.com/EN10/KerasModels)   
 
 ```
-
 from tensorflow.keras.applications.file import *
 
+file:
  'densenet',
  'efficientnet',
  'imagenet_utils',
@@ -23,4 +23,33 @@ from tensorflow.keras.applications.file import *
  'vgg19',
  'xception'
  
+ model = MODEL(weights='imagenet')
  
+ MODEL:
+ 
+ 'DenseNet121',
+ 'DenseNet169',
+ 'DenseNet201',
+ 'EfficientNetB0',
+ 'EfficientNetB1',
+ 'EfficientNetB2',
+ 'EfficientNetB3',
+ 'EfficientNetB4',
+ 'EfficientNetB5',
+ 'EfficientNetB6',
+ 'EfficientNetB7',
+ 'InceptionResNetV2',
+ 'InceptionV3',
+ 'MobileNet',
+ 'MobileNetV2',
+ 'NASNetLarge',
+ 'NASNetMobile',
+ 'ResNet101',
+ 'ResNet101V2',
+ 'ResNet152',
+ 'ResNet152V2',
+ 'ResNet50',
+ 'ResNet50V2',
+ 'VGG16',
+ 'VGG19',
+ 'Xception'
