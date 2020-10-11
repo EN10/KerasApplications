@@ -6,7 +6,6 @@
 
 ```
 from tensorflow.keras.applications.[file] import *
-
 [file]:
  'densenet',
  'efficientnet',
@@ -24,7 +23,6 @@ from tensorflow.keras.applications.[file] import *
  'xception'
  
  model = [MODEL](weights='imagenet')
- 
  [MODEL]:
  'DenseNet121',
  'DenseNet169',
