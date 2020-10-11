@@ -50,3 +50,7 @@ from tensorflow.keras.applications.[file] import *
  'VGG16',
  'VGG19',
  'Xception'
+
+* [https://keras.io/api/applications]
+* [https://github.com/keras-team/keras-applications]
+* [https://github.com/keras-team/keras-applications/tree/master/keras_applications]
