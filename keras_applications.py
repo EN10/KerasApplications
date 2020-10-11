@@ -1,14 +1,3 @@
-"""Keras Applications Classification
-https://keras.io/api/applications
-
-https://github.com/keras-team/keras-applications
-
-https://github.com/keras-team/keras-applications/tree/master/keras_applications
-"""
-
-from tensorflow.keras import applications
-dir(applications)
-
 from tensorflow.keras.applications.densenet import *
 from tensorflow.keras.preprocessing import image
 import numpy as np
