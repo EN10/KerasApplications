@@ -5,9 +5,9 @@
 * [Keras Models](https://github.com/EN10/KerasModels)   
 
 ```
-from tensorflow.keras.applications.**file** import *
+from tensorflow.keras.applications.[file] import *
 
-**file**:
+[file]:
  'densenet',
  'efficientnet',
  'imagenet_utils',
@@ -23,9 +23,9 @@ from tensorflow.keras.applications.**file** import *
  'vgg19',
  'xception'
  
- model = **MODEL**(weights='imagenet')
+ model = [MODEL](weights='imagenet')
  
-**MODEL**:
+ [MODEL]:
  'DenseNet121',
  'DenseNet169',
  'DenseNet201',
