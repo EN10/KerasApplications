@@ -2,6 +2,7 @@
 
 * [Keras Inception](https://github.com/EN10/KerasInception)   
 * [Keras Models](https://github.com/EN10/KerasModels)   
+* [neural networks 101](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist?hl=en#3)
 
 ```
 from tensorflow.keras.applications.[file] import *
